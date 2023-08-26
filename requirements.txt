@@ -1,0 +1,9 @@
+geopandas
+matplotlib
+pandas
+pillow
+plotly
+plotly_express
+shapely
+streamlit
+
